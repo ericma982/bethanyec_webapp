@@ -1,3 +1,5 @@
+import ContactUsForm from "../components/Contact-Us-Form"
+
 export default function Contact() {
 
     return (
@@ -8,6 +10,8 @@ export default function Contact() {
             Message
             Friendly Snippet(? what does this mean again?)
         */
-        <div></div>
+        <div className="h-screen">
+            <ContactUsForm />
+        </div>
     )
 }
