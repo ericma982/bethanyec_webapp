@@ -13,11 +13,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to Bethany English Congregation
+          {"Welcome to Bethany English Congregation"}
         </h1>
 
         <p className={styles.description}>
-          We're glad you're here.
+          {"We're glad you're here."}
         </p>
 
         {/*
