@@ -7,7 +7,7 @@ export default function Sermon() {
 
             <iframe id="youtube_video" width="426" height="240"
                 src="https://youtube.com/embed/videoseries?list=UUkvII64ZVHjt2FJF8-kASjA&amp;showinfo=0"
-                frameborder="0" allowfullscreen style={{ display: "block;", marginLeft: "auto;", marginRight: "auto;", maxWidth: "100%;" }}></iframe>
+                style={{ display: "block;", marginLeft: "auto;", marginRight: "auto;", maxWidth: "100%;" }}></iframe>
 
         </div >
     )
