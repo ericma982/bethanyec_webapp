@@ -1,4 +1,4 @@
-import styles from '../styles/Home.module.css'
+import styles from '../../styles/Home.module.css'
 import ReactPlayer from 'react-player'
 
 export default function Sermon() {

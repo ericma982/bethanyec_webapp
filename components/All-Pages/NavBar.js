@@ -7,10 +7,11 @@ export default function NavBar() {
         <nav className="flex items-center flex-wrap py-3 px-8 shadow-md ">
             <Link href="/">
                 <a className="inline-flex">
-                    <Image src="/images/logoResize2.png"
+                    <Image src="/images/logoResize3.png"
                         width={100}
                         height={50}
                         layout="intrinsic"
+                        quality={100}
 
                     />
                 </a>

@@ -3,8 +3,8 @@ import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import Hero from '../components/Hero'
 
-import Sermon from '../components/Sermon'
-import TwoSection from '../components/templates/Two-Section'
+import Sermon from '../components/Sermon/Sermon'
+import TwoSection from '../components/Templates/Two-Section'
 
 export default function Home() {
   return (

@@ -1,5 +1,5 @@
-import FirstTime from "../First-Time"
-import Sermon from "../Sermon"
+import FirstTime from "../First-Time/First-Time"
+import Sermon from "../Sermon/Sermon"
 
 export default function TwoSection() {
     return (
