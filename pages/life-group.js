@@ -5,7 +5,8 @@ export default function LifeGroup() {
         TODO:
 
             Pic and short snippet of each leader/director
-            Life group goals
+            Pics of Life Group Stuff or just fun stuff
+            Life group goals. Family. Fun. Fellowship.
             How to get connected
         */
         <div></div>

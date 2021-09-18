@@ -8,7 +8,7 @@ export default function Contact() {
             Name
             Email
             Message
-            Friendly Snippet(? what does this mean again?)
+            Friendly Snippet Modal (Thank you so much for filling out our form, one of our welcoming team members should contact you very soon! Have a blessed day!)
         */
         <div className="h-screen">
             <ContactUsForm />
