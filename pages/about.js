@@ -13,8 +13,8 @@ export default function About() {
 
         2.Our Team
             Pastor DC
-            Core Leaders
-            Servant Team Leaders
+            Elders
+            Deacons
 
         3.Our Faith
             Eco Statement of Faith
