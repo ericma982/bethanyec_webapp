@@ -21,6 +21,10 @@ export default function About() {
 
         4.Our Membership
             Pastor DC will prepare content
+                FAQ
+                PICTURES
+                HOW OFTEN DOES THIS HAPPEN?
+                WHY DO WE DO MEMBERSHIP?
         */
         <div></div>
     )
