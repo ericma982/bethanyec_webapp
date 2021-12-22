@@ -12,7 +12,7 @@ export default function Layout({ children, home }) {
     return (
         <>
             <Head>
-                <title>Bethany EC</title>
+                <title>Kairos Fellowship Church</title>
             </Head>
             <div className="bg-home-page h-screen bg-center bg-cover">
                 <NavBar />

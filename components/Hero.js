@@ -14,7 +14,7 @@ export default function Hero() {
                 />
             </div>
             <h1 className={styles.title}>
-                {"Welcome to Bethany English Congregation"}
+                {"Welcome to Kairos Fellowship Church"}
             </h1>
 
             <p className={styles.description}>
